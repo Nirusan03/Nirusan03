@@ -13,11 +13,10 @@
 ## <div align="center">💫 About Me</div>
 
 - 🎓 Software Engineering Undergraduate  
-- 💻 Passionate about Full Stack Development & Cybersecurity  
-- 🌐 Currently diving into Cloud Computing, DevOps, and AI  
+- 💻 Passionate about Full Stack Development & Quantum Computing
+- 🌐 Currently diving into Full Stack Developement and Future AI
 - 🤝 Open for collaborations on:
-  - Web & Mobile Applications
-  - Cybersecurity & Ethical Hacking Projects
+  - Web based & Mobile Applications
   - Open Source Contributions
 
 ---
@@ -98,13 +97,13 @@
 
 ## <div align="center">🌐 Connect With Me</div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/Nirusan-Hariharan/">
+  <a href="https://www.linkedin.com/in/nirusan-hariharan-447463214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Nirusan03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:nirusan.hariharan@example.com">
+  <a href="mailto:nirusan.hariharan350@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
