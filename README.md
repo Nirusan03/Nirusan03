@@ -1,25 +1,25 @@
 <div align="center">
 
-# 👨‍💻 Full Stack Developer | Software Engineer
+<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:bold;">
+  <span style="color:#00fff7; text-shadow: 0 0 4px #00fff7, 0 0 6px #00fff7;">
+    Nirusan Hariharan
+  </span>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=00F7FF&width=500&lines=Full+Stack+Developer;Software+Engineer;Always+Learning+and+Building)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nirusan--hariharan-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nirusan-hariharan.vercel.app/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Crafting+Clean+Code+%26+Building+Magic;Full+Stack+Developer;Quantum+Tech+Explorer;Code.+Learn.+Repeat." alt="Typing Animation" />
 
 </div>
 
 ---
+## 🧭 About Me
 
-## <div align="center">💫 About Me</div>
+🎓 &nbsp;**Software Engineering undergraduate** @ Informatics Institute of Technology  
+💡 &nbsp;Curious mind diving into **Full Stack Development**, **Quantum Computing**, and **AI**  
+🧠 &nbsp;Strong believer in open-source, creative problem solving, and lifelong learning  
 
-- 🎓 Software Engineering Undergraduate  
-- 💻 Passionate about Full Stack Development & Quantum Computing
-- 🌐 Currently diving into Full Stack Developement and Future AI
-- 🤝 Open for collaborations on:
-  - Web based & Mobile Applications
-  - Open Source Contributions
-
----
+🤝 &nbsp;**Interested on**:
+- 💻 Innovative Web & Mobile Apps  
+- 🧠 AI/ML Research & Experiments  
 
 ## <div align="center">🚀 Technologies & Tools</div>
 
