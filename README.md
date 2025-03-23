@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
-
 ---
 
 ## <div align="center">📊 GitHub Stats</div>
@@ -107,6 +106,12 @@
   </a>
   <a href="mailto:nirusan.hariharan350@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1h36CdPAIX1bBgfBClw0cNqvgJgIKNj44/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
