@@ -13,7 +13,7 @@
 ---
 ## 🧭 About Me
 
-🎓 &nbsp;**Software Engineering undergraduate** @ Informatics Institute of Technology  
+🎓 &nbsp;**Computer Science Undergraduate** @ Informatics Institute of Technology  
 💡 &nbsp;Curious mind diving into **Full Stack Development**, **Quantum Computing**, and **AI**  
 🧠 &nbsp;Strong believer in open-source, creative problem solving, and lifelong learning  
 
